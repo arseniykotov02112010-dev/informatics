@@ -1,0 +1,1 @@
+print('Tinkoff' * int(input()))
