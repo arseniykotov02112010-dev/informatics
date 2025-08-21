@@ -1,4 +1,2 @@
 n = int(input())
-s = input()
-res = s.count('ABC')
-print(res)
+print(input().upper().count('ABC'))
